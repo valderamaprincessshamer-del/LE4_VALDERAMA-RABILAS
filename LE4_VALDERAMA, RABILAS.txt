@@ -1,0 +1,12 @@
+Enter your complete name: Princess Shamer A. Valderama
+Enter section: BSIT1R7
+
+Enter 1st Quarter Grade: 83
+Enter 2nd Quarter Grade: 98
+Enter 3rd Quarted Grade: 87
+Enter 4th Quarter Grade: 97
+
+Student: Princess Shamer A. Valderama
+Section: BSIT1R7
+General Average: 91.25
+Remarks: Outstanding

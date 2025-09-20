@@ -1,0 +1,15 @@
+Enter your complete name: Mary Grace B. Rabilas
+Enter section: BSIT1R7
+
+Enter 1st Quarter Grade: 95
+Enter 2nd Quarter Grade: 95
+Enter 3rd Quarted Grade: 95
+Enter 4th Quarter Grade: 95
+
+Student: Mary Grace B. Rabilas
+Section: BSIT1R7
+General Average: 95.00
+Remarks: Outstanding
+
+
+=== Code Execution Successful ===
